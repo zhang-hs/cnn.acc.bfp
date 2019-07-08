@@ -1,0 +1,338 @@
+0th image classification...
+|____> 36
+
+|____> n01667778 terrapin
+
+1th image classification...
+|____> 65
+
+|____> n01751748 sea snake
+
+2th image classification...
+|____> 724
+
+|____> n03947888 pirate, pirate ship
+
+3th image classification...
+Classification Error.
+|____> 66
+
+|____> n01753488 horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+
+4th image classification...
+|____> 236
+
+|____> n02107142 Doberman, Doberman pinscher
+
+5th image classification...
+|____> 460
+
+|____> n02894605 breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+6th image classification...
+|____> 254
+
+|____> n02110958 pug, pug-dog
+
+7th image classification...
+|____> 691
+
+|____> n03868863 oxygen mask
+
+8th image classification...
+|____> 550
+
+|____> n03297495 espresso maker
+
+9th image classification...
+|____> 528
+
+|____> n03187595 dial telephone, dial phone
+
+10th image classification...
+|____> 110
+
+|____> n01924916 flatworm, platyhelminth
+
+11th image classification...
+|____> 126
+
+|____> n01990800 isopod
+
+12th image classification...
+|____> 553
+
+|____> n03337140 file, file cabinet, filing cabinet
+
+13th image classification...
+|____> 307
+
+|____> n02177972 weevil
+
+14th image classification...
+|____> 110
+
+|____> n01924916 flatworm, platyhelminth
+
+15th image classification...
+|____> 295
+
+|____> n02133161 American black bear, black bear, Ursus americanus, Euarctos americanus
+
+16th image classification...
+Classification Error.
+|____> 300
+
+|____> n02165105 tiger beetle
+
+17th image classification...
+|____> 862
+
+|____> n04456115 torch
+
+18th image classification...
+Classification Error.
+|____> 646
+
+|____> n03733281 maze, labyrinth
+
+19th image classification...
+|____> 390
+
+|____> n02526121 eel
+
+20th image classification...
+|____> 8
+
+|____> n01514859 hen
+
+21th image classification...
+Classification Error.
+|____> 404
+
+|____> n02690373 airliner
+
+22th image classification...
+Classification Error.
+|____> 791
+
+|____> n04204347 shopping cart
+
+23th image classification...
+|____> 334
+
+|____> n02346627 porcupine, hedgehog
+
+24th image classification...
+|____> 323
+
+|____> n02279972 monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+
+25th image classification...
+|____> 351
+
+|____> n02422106 hartebeest
+
+26th image classification...
+|____> 694
+
+|____> n03874293 paddlewheel, paddle wheel
+
+27th image classification...
+|____> 857
+
+|____> n04429376 throne
+
+28th image classification...
+|____> 487
+
+|____> n02992529 cellular telephone, cellular phone, cellphone, cell, mobile phone
+
+29th image classification...
+|____> 428
+
+|____> n02797295 barrow, garden cart, lawn cart, wheelbarrow
+
+30th image classification...
+Classification Error.
+|____> 117
+
+|____> n01968897 chambered nautilus, pearly nautilus, nautilus
+
+31th image classification...
+|____> 163
+
+|____> n02088466 bloodhound, sleuthhound
+
+32th image classification...
+|____> 903
+
+|____> n04584207 wig
+
+33th image classification...
+Classification Error.
+|____> 256
+
+|____> n02111277 Newfoundland, Newfoundland dog
+
+34th image classification...
+|____> 81
+
+|____> n01796340 ptarmigan
+
+35th image classification...
+Classification Error.
+|____> 888
+
+|____> n04532670 viaduct
+
+36th image classification...
+|____> 897
+
+|____> n04554684 washer, automatic washer, washing machine
+
+37th image classification...
+|____> 518
+
+|____> n03127747 crash helmet
+
+38th image classification...
+|____> 354
+
+|____> n02437312 Arabian camel, dromedary, Camelus dromedarius
+
+39th image classification...
+|____> 417
+
+|____> n02782093 balloon
+
+40th image classification...
+|____> 113
+
+|____> n01944390 snail
+
+41th image classification...
+|____> 815
+
+|____> n04275548 spider web, spider's web
+
+42th image classification...
+|____> 439
+
+|____> n02817516 bearskin, busby, shako
+
+43th image classification...
+Classification Error.
+|____> 245
+
+|____> n02108915 French bulldog
+
+44th image classification...
+|____> 491
+
+|____> n03000684 chain saw, chainsaw
+
+45th image classification...
+Classification Error.
+|____> 601
+
+|____> n03534580 hoopskirt, crinoline
+
+46th image classification...
+Classification Error.
+|____> 234
+
+|____> n02106550 Rottweiler
+
+47th image classification...
+Classification Error.
+|____> 855
+
+|____> n04423845 thimble
+
+48th image classification...
+Classification Error.
+|____> 174
+
+|____> n02091467 Norwegian elkhound, elkhound
+
+49th image classification...
+|____> 362
+
+|____> n02447366 badger
+
+50th image classification...
+|____> 346
+
+|____> n02408429 water buffalo, water ox, Asiatic buffalo, Bubalus bubalis
+
+51th image classification...
+|____> 522
+
+|____> n03134739 croquet ball
+
+52th image classification...
+|____> 651
+
+|____> n03761084 microwave, microwave oven
+
+53th image classification...
+|____> 58
+
+|____> n01737021 water snake
+
+54th image classification...
+Classification Error.
+|____> 785
+
+|____> n04162706 seat belt, seatbelt
+
+55th image classification...
+|____> 927
+
+|____> n07613480 trifle
+
+56th image classification...
+|____> 144
+
+|____> n02051845 pelican
+
+57th image classification...
+Classification Error.
+|____> 907
+
+|____> n04591713 wine bottle
+
+58th image classification...
+|____> 701
+
+|____> n03888257 parachute, chute
+
+59th image classification...
+|____> 884
+
+|____> n04523525 vault
+
+60th image classification...
+|____> 612
+
+|____> n03599486 jinrikisha, ricksha, rickshaw
+
+61th image classification...
+|____> 998
+
+|____> n13133613 ear, spike, capitulum
+
+62th image classification...
+|____> 63
+
+|____> n01748264 Indian cobra, Naja naja
+
+63th image classification...
+|____> 157
+
+|____> n02086910 papillon
+
+--------------
+Top-1 Accuracy: 0.765625
+Correct count: 49

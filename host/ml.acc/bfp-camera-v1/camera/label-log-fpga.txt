@@ -1,0 +1,20 @@
+36
+n01667778 terrapin
+terrapin
+
+35
+n01667114 mud turtle
+mud turtle
+
+37
+n01669191 box turtle, box tortoise
+box turtle
+
+33
+n01664065 loggerhead, loggerhead turtle, Caretta caretta
+loggerhead
+
+34
+n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+leatherback turtle
+
