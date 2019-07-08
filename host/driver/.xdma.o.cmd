@@ -1,0 +1,1 @@
+cmd_/home/Dev/ml.acc/rw.driver/driver/xdma.o := ld -m elf_x86_64   -r -o /home/Dev/ml.acc/rw.driver/driver/xdma.o /home/Dev/ml.acc/rw.driver/driver/xdma-core.o /home/Dev/ml.acc/rw.driver/driver/xdma-sgm.o /home/Dev/ml.acc/rw.driver/driver/xdma-ioctl.o /home/Dev/ml.acc/rw.driver/driver/xdma-bit.o ; scripts/mod/modpost /home/Dev/ml.acc/rw.driver/driver/xdma.o

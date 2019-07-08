@@ -1,0 +1,1 @@
+cmd_/home/Dev/ml.acc/rw.driver/driver/xdma.ko.unsigned := ld -r -m elf_x86_64 -T /usr/src/kernels/2.6.32-696.6.3.el6.x86_64/scripts/module-common.lds --build-id -o /home/Dev/ml.acc/rw.driver/driver/xdma.ko.unsigned /home/Dev/ml.acc/rw.driver/driver/xdma.o /home/Dev/ml.acc/rw.driver/driver/xdma.mod.o 
